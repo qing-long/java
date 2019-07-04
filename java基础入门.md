@@ -111,6 +111,5 @@ public class SwitchTest {
             default: break;
         }
     }
-
 }
 ```
