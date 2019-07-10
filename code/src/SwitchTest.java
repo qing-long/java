@@ -7,7 +7,7 @@ public class SwitchTest {
     public static void main(String[] args) {
         System.out.println("输入数字, 给出月份");
         Scanner sc = new Scanner(System.in);
-        var month = sc.nextInt();
+        int month = sc.nextInt();
 
         switch (month) {
             case 1:

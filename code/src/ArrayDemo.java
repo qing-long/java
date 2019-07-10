@@ -11,7 +11,7 @@ public class ArrayDemo {
         arr[1] = 2;
         arr[2] = 3;
 
-        for (var a :
+        for (int a :
                 arr) {
             System.out.println(a);
         }
