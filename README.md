@@ -10,11 +10,14 @@ java doc by learning
 - [ ] 错误处理
 - [ ] 设计模式
 - [ ] java 标准库
+	- [ ] jackson: json库
 - [ ] java AOP
 - [ ] springboot
 	- [x] hello world: 最小化spring boot
 	- [x] request method: get post put delete
-	- [ ] argument parser: 参数解析
+	- [x] argument parser: 参数解析
+	- [ ] jdbc: 连接数据库
+- [ ] spring security
 - [ ] activemq
 - [ ] redis
 - [ ] command line

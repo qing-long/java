@@ -53,7 +53,7 @@ public class DemoApplication   {
 
 
 
-#### spring-boot 出现错误 `classnotfound`
+#### spring-boot 出现错误`classnotfound`
 
 可能是依赖问题,
 
