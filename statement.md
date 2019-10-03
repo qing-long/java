@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /*
-猜数字小游戏
+ * 猜数字小游戏
  */
 public class IfTest {
     public static void main(String[] args) {
@@ -72,4 +72,17 @@ public class SwitchTest {
         }
     }
 }
+```
+
+
+## java where 语句
+
+
+```java
+ int i = 1;
+        while (i < 5) {
+            System.out.println("now i is " + i);
+            i += 1;
+        }
+    }
 ```
