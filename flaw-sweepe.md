@@ -60,4 +60,5 @@ public class DemoApplication   {
 - 删除`pom.xml`
 - 执行`mvn clean install`
 - 重新安装依赖, 在运行
+- 如果是idea, 可能是使用了idea自带的maven
 
